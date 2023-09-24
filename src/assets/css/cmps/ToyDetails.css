@@ -1,0 +1,10 @@
+.toy-details{
+    background-color: rgb(253, 241, 225);
+    width: fit-content;
+
+    padding: 20px;
+    margin-inline: auto;
+    margin-top: 20px;
+
+    box-shadow: 2px 1px 7px 0px;
+}
